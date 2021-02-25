@@ -1,3 +1,26 @@
 {
-  "items": []
+    "items": [
+        {
+            "type": "divider",
+            "title": "API Quick Start"
+        },
+        {
+            "type": "item",
+            "title": "Introduction",
+            "uri": "docs/intro.md"
+        },
+        {
+            "type": "item",
+            "title": "Authentication",
+            "uri": "docs/authentication.md"
+        },
+        {
+          "type": "divider",
+          "title": "How-to Guides"
+      },
+        {
+            "type": "divider",
+            "title": "API Reference"
+        }
+    ]
 }
