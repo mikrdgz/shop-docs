@@ -16,62 +16,87 @@
         },
         {
             "type": "divider",
+            "title": "Guides"
+        },
+        {
+            "type": "group",
+            "title": "Custom Shipping Rates",
+            "items": [
+                {
+                    "type": "item",
+                    "title": "Enable Custom Shipping Rates",
+                    "uri": "docs/enable-custom-shipping.md"
+                },
+                {
+                    "type": "item",
+                    "title": "Shipping Rates Service Reference",
+                    "uri": "docs/shipping-service-reference.md"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "title": "Create Checkout with Shopify Storefront Cart API",
+            "uri": "docs/post-checkout.md"
+        },
+        {
+            "type": "divider",
             "title": "API Reference"
         },
         {
-          "type": "item",
-          "title": "Addresses",
-          "uri": "docs/addresses.md"
-      },
-      {
-          "type": "item",
-          "title": "Charges",
-          "uri": "docs/charges.md"
-      },
-      {
-          "type": "item",
-          "title": "Checkouts",
-          "uri": "docs/checkouts.md"
-      },
-      {
-          "type": "item",
-          "title": "Customers",
-          "uri": "docs/customers.md"
-      },
-      {
-          "type": "item",
-          "title": "Discounts",
-          "uri": "docs/discounts.md"
-      },
-      {
-          "type": "item",
-          "title": "Metafields",
-          "uri": "docs/metafields.md"
-      },
-      {
-          "type": "item",
-          "title": "Onetimes",
-          "uri": "docs/onetimes.md"
-      },
-      {
-          "type": "item",
-          "title": "Orders",
-          "uri": "docs/orders.md"
-      },
-      {
-          "type": "item",
-          "title": "Products",
-          "uri": "docs/products.md"
-      },
-      {
-          "type": "item",
-          "title": "Subscriptions",
-          "uri": "docs/subscriptions.md"
-      },
-      {
-          "type": "item",
-          "title": "Webhooks Overview",
-          "uri": "docs/webhooks-overview.md"
-      }
+            "type": "item",
+            "title": "Addresses",
+            "uri": "docs/addresses.md"
+        },
+        {
+            "type": "item",
+            "title": "Charges",
+            "uri": "docs/charges.md"
+        },
+        {
+            "type": "item",
+            "title": "Checkouts",
+            "uri": "docs/checkouts.md"
+        },
+        {
+            "type": "item",
+            "title": "Customers",
+            "uri": "docs/customers.md"
+        },
+        {
+            "type": "item",
+            "title": "Discounts",
+            "uri": "docs/discounts.md"
+        },
+        {
+            "type": "item",
+            "title": "Metafields",
+            "uri": "docs/metafields.md"
+        },
+        {
+            "type": "item",
+            "title": "Onetimes",
+            "uri": "docs/onetimes.md"
+        },
+        {
+            "type": "item",
+            "title": "Orders",
+            "uri": "docs/orders.md"
+        },
+        {
+            "type": "item",
+            "title": "Products",
+            "uri": "docs/products.md"
+        },
+        {
+            "type": "item",
+            "title": "Subscriptions",
+            "uri": "docs/subscriptions.md"
+        },
+        {
+            "type": "item",
+            "title": "Webhooks Overview",
+            "uri": "docs/webhooks-overview.md"
+        }
     ]
 }
