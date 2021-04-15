@@ -36,7 +36,7 @@
         },
         {
             "type": "item",
-            "title": "Create Checkout with Shopify Storefront Cart API",
+            "title": "Create Checkout with Shopify Storefront Cart",
             "uri": "docs/post-checkout.md"
         },
         {

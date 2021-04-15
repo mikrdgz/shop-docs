@@ -384,8 +384,9 @@ Copy and paste this code somewhere in your theme where it can later be called.
             if (!hasSubscription(cart_data)) {
                 // Send user to Shopify's checkout if no subscription products are found
                 window.location.href = '/checkout';
+                return;
             };
-            return;
+            
             var checkout_url = buildCheckoutUrl();
             if (!cart_data) {
                 // Cart data not found, fallback to token method
